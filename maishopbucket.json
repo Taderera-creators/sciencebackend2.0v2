@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "avid-compound-422809-v5",
+  "private_key_id": "d12abcd80876754d9c3f750b0a2cb8c0e93c70f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvqtIOEODj4LWN\nMWeydLL9yuvCSKM5pjMkmrWeUZGGGe5Y/8rYOWwtSDkiQNNoXdXjuex2xk3WEc4g\nnqlNe64YZ7DrdZsgta2sP7lxSmC7PI/qlx0gTqOqHVqKtYVbh10os48S3Ej2gtoc\nA2w9Lil9qXWQM2xU3A2mimjpW8dit+Ue1un6gJM0ylO5AD0/VbtoA2m0zr7eAeaM\nhtZwqqPOAF8bXRdU01ENuCStk9o5Fx0GTGCoeWyrHMuqRAm2YtIJysY1I8CMUzvs\nrU3bpCPeKHPmeMEJ6P5nzB0H5wNVQ5G68YCNJ0+pNXOwrWx4yKoWtIPn8J02UplG\n4zvOxBqJAgMBAAECggEABd/I8WZ4Frara4LE7G9BkwIHmzIRnzpjCGzR+O7SVnEk\nir5W+p8E8oixPGd9ikZlAh3z/c7IyIlE4stbbvddTXyeKml+2/unSJTC7zpk/K3c\nRCR0eWGX0Hb10aCbSoG+yD8k4CUUnYWnpHsq0erqwUR65W0KyNWo8TI8qt0CUFc2\nteNGcg1DWhuA7UOhPLoIvOTH282sHlRdPvYihSDYdBe9pOx0VhLQ84psauXOYJXL\nJlHbk3DYss74+WS7F/URJ03YmwZa714SBFtwQKnmqbVz2GyN9Phpr/W3Mc2QBsjS\ncvLtzBZE1/7zJNxu0fD+s93OYOT8zZu0J79IQlsN9wKBgQDbSu10jJGZe9UPsxzo\nuW/W7tnUxxFUgYyUcf4kn5Dhz+6Q0QLBaMh97trGhYqSVQR+jNEvHzuN0dG5ToeS\nKI2i1D3NpV+OtdCrKEyeHTvpo+/NPNM8niCTWdtXZjYBbyMTAgqxMml0VE17BG2z\nDWZ0l1OlVZe+kg57i1MeBoxwjwKBgQDNEnfRNTIJ26tCairDKd/hcc0I6oYc2q3K\nvEc40vxAoIlWmCPel6Arcwtl1CMQl3sGMWfQfISV8CtD2FqT3BR8NI7KyQKjEGQm\nEKm9ztwvwnjzipXgwqZoFy4j5ixiSgV7xS5yfBWmu+cUNHI5wWGMt1Ts+ZGeYdsg\nir3ZQQafZwKBgBJ/R3hFQyLHJzmjyhR3T8+5ZfZktDmEk+8RjnZYX0gs2dqtRqY5\nyG+W7i1ApmehdDeYeSyYXdWglSgkT5ssgIXzkSL/iAfpnihRxeSwYpValqehMdAz\nJlxHgBDnNjb4wOShj3VS40JEuiReQ0KPJs0+1ndjuOECQOZ64g/uTXpRAoGBAIB7\n8rAUGS7N/+YTqIkwokGY0HKmpbJMXJjqD+GNZ1iCfKnRlp+u9j5izSBWokWR8xV1\nPOsGKPfcSu8uDcoYGImdUF3DRTCvY1/qDr+KbLBLswY7rR3uNt5+r3z0iJhocjkS\n2MAH+HTHw8cH+Q0wmRLWBpKW5uKJwwYHh10n/aM/AoGAZxwS+uP+ZrNfRxOCZwSe\ni70q3qo9sxOyct0k5qUC0v5Iq3zqqW2Z2i0jnDRKrfTTf4Cta4yOavTXNzt+V6GM\nbqia7CBQqiWQy1B1nel38JF4eLro0Nd7kuDwLGdeqzqlDTB7agiHFGRd85ZnRdBd\n/hnjuNNdCXju0ibEl89HnqU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "maishopcloudstorage@avid-compound-422809-v5.iam.gserviceaccount.com",
+  "client_id": "114082745992273607871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maishopcloudstorage%40avid-compound-422809-v5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
