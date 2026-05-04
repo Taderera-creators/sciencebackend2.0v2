@@ -64,7 +64,7 @@ exports.Controllers = {
             const writerId = yield user_details_1.UserDetails.findOne({
                 email
             });
-            // await fileUpload.save(imageBuffer);
+            yield fileUpload.save(imageBuffer);
             yield articles_1.Articles.create({
                 topic,
                 heading,

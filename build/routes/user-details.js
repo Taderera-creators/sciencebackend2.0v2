@@ -72,7 +72,7 @@ routers.put("/profile-image", authMiddleware_1.validateToken, upload.single("ima
             email
         });
         /*another version*/
-        ///await fileUpload.save(req.file.buffer);
+        yield fileUpload.save(req.file.buffer);
         yield user_details_1.UserDetails.updateOne({ _id: user === null || user === void 0 ? void 0 : user._id }, { $set: { profileImage: fileName } });
         res.status(200);
     }

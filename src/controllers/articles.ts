@@ -83,7 +83,7 @@ const imageBuffer = req?.files?.image[0]?.buffer
                 email
         })
 
-        // await fileUpload.save(imageBuffer);
+         await fileUpload.save(imageBuffer);
         await Articles.create({
             topic,
             heading,

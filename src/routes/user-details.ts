@@ -87,7 +87,7 @@ routers.put(
         })
 
        /*another version*/
-      ///await fileUpload.save(req.file.buffer);
+      await fileUpload.save(req.file.buffer);
 
 
       await UserDetails.updateOne(
